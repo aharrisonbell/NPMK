@@ -10,3 +10,4 @@
 # Executables
 *.exe
 *.ns6
+.DS_Store
